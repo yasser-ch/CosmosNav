@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#001F3F"
+    android:padding="32dp">
+
+    <TextView
+        android:id="@+id/tv_galaxy_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🌌 Galaxy View"
+        android:textColor="#00BCD4"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_galaxy_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Billions of stars await..."
+        android:textColor="#B0BEC5"
+        android:textSize="16sp" />
+
+</LinearLayout>

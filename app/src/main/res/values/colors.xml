@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cosmos_dark">#0D0D1A</color>
+    <color name="cosmos_surface">#1A1A2E</color>
+    <color name="cosmos_teal">#00BCD4</color>
+    <color name="cosmos_amber">#FFB300</color>
+    <color name="cosmos_white">#E0E0E0</color>
+    <color name="nav_header_bg">#12122A</color>
+</resources>

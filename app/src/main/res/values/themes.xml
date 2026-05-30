@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.CosmosNav" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/cosmos_surface</item>
+        <item name="colorPrimaryVariant">@color/cosmos_dark</item>
+        <item name="colorOnPrimary">@color/cosmos_white</item>
+        <item name="colorAccent">@color/cosmos_teal</item>
+        <item name="android:windowBackground">@color/cosmos_dark</item>
+    </style>
+</resources>

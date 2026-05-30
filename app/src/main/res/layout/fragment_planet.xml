@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#1B0036"
+    android:padding="32dp">
+
+    <TextView
+        android:id="@+id/tv_planet_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🪐 Planet View"
+        android:textColor="#CE93D8"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_planet_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Orbiting in silence..."
+        android:textColor="#E0E0E0"
+        android:textSize="16sp" />
+
+</LinearLayout>

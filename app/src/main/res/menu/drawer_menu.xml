@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_planet"
+        android:icon="@drawable/ic_planet"
+        android:title="Planet View" />
+    <item
+        android:id="@+id/nav_galaxy"
+        android:icon="@drawable/ic_galaxy"
+        android:title="Galaxy View" />
+    <item
+        android:id="@+id/nav_stars"
+        android:icon="@drawable/ic_stars"
+        android:title="Star Catalogue" />
+</menu>
