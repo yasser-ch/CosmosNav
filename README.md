@@ -28,6 +28,11 @@ Construire une application Android utilisant un **Navigation Drawer** pour navig
 | ⭐ Star Catalogue   | `StarListFragment`  | Liste déroulante de corps célestes       |
 
 ---
+## DEMO 
+
+
+https://github.com/user-attachments/assets/bba18b8f-cea6-4312-9876-9a38ae5dc4e8
+
 
 ## Structure du Projet
 
